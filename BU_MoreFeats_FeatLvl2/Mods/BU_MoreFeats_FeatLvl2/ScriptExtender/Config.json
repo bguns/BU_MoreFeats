@@ -1,0 +1,5 @@
+{
+    "RequiredVersion": 11,
+    "ModTable": "BU_MoreFeats_FeatLvl2",
+    "FeatureFlags": ["Lua"]
+}
